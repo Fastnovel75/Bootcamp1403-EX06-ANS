@@ -1,2 +1,2 @@
-# Bootcamp1403-EX03
+# Bootcamp1403-EX06
 My main github account: https://github.com/Aydinhamedi
